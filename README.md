@@ -319,7 +319,7 @@
 
 - __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
   - 분류: `경진대회`, `데이터`
-  - 주최: NH 투자증권
+  - 주최: NH 투자증권 
   - 일시: 08. 30(월) ~ 11. 26(금)
 
 <br />
